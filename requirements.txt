@@ -1,0 +1,11 @@
+requests==2.33.1
+beautifulsoup4==4.14.3
+lxml==6.1.0
+spacy==3.8.13
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+nltk==3.9.4
+networkx==3.6.1
+spacy==uk_core_news_sm
