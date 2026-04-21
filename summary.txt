@@ -1,0 +1,20 @@
+ПІДСУМОК ЛАБОРАТОРНОЇ РОБОТИ №4
+==================================================
+Рівень І   - Accuracy: 87.3%
+Рівень ІІ  - Частотний аналіз: виконано
+Рівень ІІІ - K-Means: k=4, Silhouette=0.0099
+==================================================
+Файли результатів:
+  tfidf_top_terms.png       - Топ TF-IDF терміни
+  tf_frequency.png          - Термінальна частота TF
+  tf_cumulative.png         - Кумулятивна частота TF
+  lexical_dispersion.png    - Лексична дисперсія
+  word_length_hist.png      - Розподіл довжини слів (гістограма)
+  word_length_cfd.png       - Розподіл довжини слів (графік)
+  bigram_graph.png          - Граф біграм
+  silhouette_score.png      - Silhouette Score
+  elbow_method.png          - Elbow Method
+  kmeans_pca.png            - K-Means PCA 2D
+  classification_report.txt - Звіт класифікатора
+  clustering_report.txt     - Звіт кластеризації
+  summary.txt               - Цей файл
